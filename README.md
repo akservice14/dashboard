@@ -47,7 +47,7 @@ No external frameworks or libraries (React, Vue, Angular, jQuery, etc.) are used
 │   └── utils.js                # Shared utilities (event binding, popup positioning, validation)
 ```
 
-Additional modules referenced in the codebase (not included in uploads): `AppController`, `EmployeeModel`, `ProjectModel`, `EmployeesContentView`, `ProjectsContentView`, `SidePanelView`, `AddEmployeePanel`, `AddProjectPanel`, `SeedDataPopupView`, `AddAssignmentPopup`, `EditAssignmentPopup`, `DeleteAssignmentPopup`, `CalendarPopup`, `ActionPopup`, `Formatter`, and `mock-data`.
+Additional modules referenced in the codebase: `AppController`, `EmployeeModel`, `ProjectModel`, `EmployeesContentView`, `ProjectsContentView`, `SidePanelView`, `AddEmployeePanel`, `AddProjectPanel`, `SeedDataPopupView`, `AddAssignmentPopup`, `EditAssignmentPopup`, `DeleteAssignmentPopup`, `CalendarPopup`, `ActionPopup`, `Formatter`, and `mock-data`.
 
 ## How to Run
 
