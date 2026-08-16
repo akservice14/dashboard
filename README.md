@@ -2,6 +2,9 @@
 
 A comprehensive management application for tracking employees, projects, and their assignments across different time periods. Built with vanilla JavaScript using an MVC architecture — no frameworks or libraries.
 
+## Link
+https://akservice14.github.io/dashboard/
+
 ## Description
 
 The Employee & Project Dashboard enables managers to maintain a database of employees and projects, assign employees to projects with flexible capacity allocation, track availability through a vacation calendar, and view financial projections including revenue, costs, and profits. All data is organized in monthly snapshots, allowing independent planning and historical tracking for each period.
